@@ -1,2 +1,2 @@
-# Hospitax
+# Hospitrax
 Hospital Inventory Management System
