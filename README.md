@@ -1,4 +1,4 @@
-Hospitrax — Hospital Inventory Management System
+Hospitrax - Hospital Inventory Management System
 
 An offline desktop application for managing hospital inventory built to give small clinics and hospital departments a simple, reliable way to track supplies without needing an internet connection or a dedicated IT team.
 
@@ -31,7 +31,7 @@ Hospitrax uses a relational SQLite database with a 3-table schema designed to ke
 
 Source Code
 
-The full Hospitrax codebase (including the React UI) is maintained in a private repository. This public repository includes selected backend/Electron source files — the database layer, IPC handlers, and Electron process setup — to demonstrate implementation approach and code style.
+The full Hospitrax codebase (including the React UI) is maintained in a private repository. This public repository includes selected backend/Electron source files the database layer, IPC handlers, and Electron process setup — to demonstrate implementation approach and code style.
 
 Included Files
 File	Purpose
